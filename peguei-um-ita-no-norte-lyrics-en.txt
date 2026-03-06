@@ -1,8 +1,8 @@
 [1]
 My heart explodes
 In great joy
-My Salgueiro is beautiful
-Contagiando, sacudindo essa cidade
+My Salgueiro is beautiful {1}
+Rocking this city
 
 [2]
 Here I go
@@ -18,7 +18,7 @@ Joy, the old Ita will depart
 
 [4]
 In the rocking waves, I'll go
-In the sea I throw my saudade, my love
+In the sea I throw my longing, my love
 Time brings hope and anxiety
 I'll keep sailing in search of happiness
 
@@ -30,8 +30,11 @@ With them I renew my joy
 
 [6]
 I arrive at Rio de Janeiro
-Land of samba, of mulata and soccer
+Land of samba, of mulatas and soccer {2}
 
 [7]
 I live its day to day
 In the magic of its carnival
+
+{1} Salgueiro is the "samba school" from which this samba enredo comes from.
+{2} Mulata refers to young women of white European and black African ascendency. The term has the same root as "mule", which is supposed to indicate that a mule's fur has a similar color. As you may imagine, it has recently fallen out of favor due to this association.
